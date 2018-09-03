@@ -25,6 +25,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Explorer">
+        <Item>
+          <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Explorer</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="File or Folder..">
+        <Item>
+          <IdeaActionID>OpenFile</IdeaActionID>
+          <ShortCut>'Ctrl+O'</ShortCut>
+          <Description>File or Folder..</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh Stack Frame">
         <Item>
           <IdeaActionID>RefreshStackFrame</IdeaActionID>
