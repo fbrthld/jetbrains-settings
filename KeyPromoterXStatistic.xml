@@ -1,75 +1,19 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Debug 'Default'">
+      <Statistic Action="Commit...">
         <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Alt+F5'</ShortCut>
-          <Description>Debug 'Default'</Description>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'Development'">
+      <Statistic Action="Terminal">
         <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Alt+F5'</ShortCut>
-          <Description>Debug 'Development'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'F12' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Explorer">
-        <Item>
-          <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Explorer</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="File or Folder..">
-        <Item>
-          <IdeaActionID>OpenFile</IdeaActionID>
-          <ShortCut>'Ctrl+O'</ShortCut>
-          <Description>File or Folder..</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Refresh Stack Frame">
-        <Item>
-          <IdeaActionID>RefreshStackFrame</IdeaActionID>
-          <ShortCut>'Button1 Double-Click'</ShortCut>
-          <Description>Refresh Stack Frame</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Default'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
-          <Description>Rerun 'Default'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Development'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
-          <Description>Rerun 'Development'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Development'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Shift+F5'</ShortCut>
-          <Description>Stop 'Development'</Description>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
