@@ -1,172 +1,36 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Add">
-        <Item>
-          <IdeaActionID>Git.Add</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+A'</ShortCut>
-          <Description>Add</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Build">
-        <Item>
-          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
-          <ShortCut>'Alt+0'</ShortCut>
-          <Description>Build</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Default'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Alt+F5'</ShortCut>
-          <Description>Debug 'Default'</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Development'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Alt+F5'</ShortCut>
-          <Description>Debug 'Development'</Description>
-          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'F12' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>18</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Evaluate Expression...">
+      <Statistic Action="Open...">
         <Item>
-          <IdeaActionID>EvaluateExpression</IdeaActionID>
-          <ShortCut>'Alt+F8'</ShortCut>
-          <Description>Evaluate Expression...</Description>
+          <IdeaActionID>OpenFile</IdeaActionID>
+          <ShortCut>'Ctrl+O'</ShortCut>
+          <Description>Open...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="New Scratch File">
+      <Statistic Action="Rename...">
         <Item>
-          <IdeaActionID>NewScratchFile</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
-          <Description>New Scratch File</Description>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="NuGet">
-        <Item>
-          <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
-          <ShortCut>'Alt+7' or 'Alt+Shift+7'</ShortCut>
-          <Description>NuGet</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Refresh">
-        <Item>
-          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+R'</ShortCut>
-          <Description>Refresh</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Refresh Stack Frame">
-        <Item>
-          <IdeaActionID>RefreshStackFrame</IdeaActionID>
-          <ShortCut>'Button1 Double-Click'</ShortCut>
-          <Description>Refresh Stack Frame</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Default'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
-          <Description>Rerun 'Default'</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Development'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
-          <Description>Rerun 'Development'</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F5'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>38</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Revert...">
-        <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Default'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Run 'Default'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Development'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Run 'Development'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Step Over">
-        <Item>
-          <IdeaActionID>StepOver</IdeaActionID>
-          <ShortCut>'F10'</ShortCut>
-          <Description>Step Over</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Default'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Shift+F5'</ShortCut>
-          <Description>Stop 'Default'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Development'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Shift+F5'</ShortCut>
-          <Description>Stop 'Development'</Description>
-          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -182,7 +46,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>11</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -190,7 +54,15 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>17</Count>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -198,7 +70,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
