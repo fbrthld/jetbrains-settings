@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Browsergame.Domain'" />
-    <option name="defaultScopeName" value="Project 'Browsergame.Domain'" />
-    <option name="SEARCH_SCOPE" value="Project 'Browsergame.Domain'" />
+    <option name="customScope" value="Project 'Browsergame.Application'" />
+    <option name="defaultScopeName" value="Project 'Browsergame.Application'" />
+    <option name="SEARCH_SCOPE" value="Project 'Browsergame.Application'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
