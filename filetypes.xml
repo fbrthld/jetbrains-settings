@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gql" type="GraphQL" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
-      <mapping ext="gql" type="GraphQL" />
     </extensionMap>
   </component>
 </application>
