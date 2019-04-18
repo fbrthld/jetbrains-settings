@@ -4,7 +4,6 @@
       <option name="INDENT_SIZE" value="2" />
     </value>
   </option>
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="80,120" />
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
