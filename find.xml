@@ -1,16 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Browsergame.Application'" />
-    <option name="defaultScopeName" value="Project 'Browsergame.Application'" />
-    <option name="SEARCH_SCOPE" value="Project 'Browsergame.Application'" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
+    <option name="customScope" value="File '.../src/main.ts [pnp]'" />
+    <option name="defaultScopeName" value="File '.../src/main.ts [pnp]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main.ts [pnp]'" />
   </component>
 </application>
